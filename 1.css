@@ -1,0 +1,147 @@
+/* .ball{
+    width: 30px;
+    height: 30px;
+    margin: 0px;
+    position: absolute;
+    aimation: animate 4s linear infinite;
+}
+img{
+
+    margin-left: 500px;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 100px;
+
+}
+.rect{
+    width: 1200px;
+    height: 600px;
+    border: 2px solid black;
+    position: relative;
+    top: 60px;
+    margin-left: 150px;
+}
+.aside{
+    width: 50px;
+    height: 40px;
+}
+.side1{
+    width: 50px;
+    height: 100px;
+    border: 2px solid black;
+    margin-top: 200px;
+}
+.side2{
+    width: 50px;
+    height: 100px;
+    border: 2px solid black;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-left: 1149px;
+}
+i{
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+}
+.right{
+    transform: rotate(90deg);
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+    
+}
+.left{
+    transform: rotate(90deg);
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+}
+.top{
+    transform: rotate(135deg);
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+}
+.down{
+    transform: rotate(135deg);
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+} */
+.rect{
+    margin: 8px;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    position: absolute;
+    left: 95px;
+    top: 250px;
+}
+.goalpostsecond{
+    border: 1px solid black;
+    width: 50px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 900px;
+    background-color: yellow
+}
+.goalpostfirst{
+    border: 1px solid black;
+    width: 50px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 10px;
+    background-color: yellow
+}
+.field{
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    margin-top: 80px;
+    margin-left: 200px;
+    background-color: green;
+}
+img{
+
+    margin-left: 500px;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 100px;
+
+}
+.top{
+    margin-top: 20px;
+    margin-left: 650px;
+}
+.left{
+    margin-top: 25px;
+    margin-left: 580px;
+}
+.right{
+   
+    margin-left: 70px;
+}
+
+.bottom{
+    margin-top: 4px;
+    margin-left: 650px;
+}
+.btn{
+    width: 60px;
+    height: 30px;
+
+}
+/* canvas {
+    background-color: #F08080;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+} */
